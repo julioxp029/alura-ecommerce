@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
+      "name": "Tasa de Star Wars",
+      "category": "Star Wars",
+      "price": "200",
+      "url": "./img/alurageek/prod-starwars1.png",
+      "description": "Pequeña tasa lista pasa inspirarte en tu trabajo"
+    },
+    {
+      "name": "Pisa Papeles Star Wars",
+      "category": "Star Wars",
+      "url": "./img/alurageek/prod-starwars2.png",
+      "price": "240",
+      "description": "Pisa papeles de formas originales de Star Wars",
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3",
+      "name": "Poster Yoda",
+      "category": "Star Wars",
+      "price": "100",
+      "url": "./img/alurageek/prod-starwars3.png",
+      "description": "Portes con la imagen del gran e inmemorable Maestro Yoda"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
+      "name": "Poster Storm Trupper",
+      "category": "Star Wars",
+      "price": "100",
+      "url": "./img/alurageek/prod-starwars4.png",
+      "description": "Poster de soldado Storm Trupper"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag5",
+      "name": "Porter Baby Yoda",
+      "category": "Star Wars",
+      "price": "100",
+      "url": "./img/alurageek/prod-starwars5.png",
+      "description": "Poster de Baby Yoda - Grogu"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
+      "name": "Poster Kilo Ren",
+      "category": "Star Wars",
+      "price": "100",
+      "url": "./img/alurageek/prod-starwars6.png",
+      "description": "Poster de sobrevalorado Kilo Ren"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac1",
+      "name": "Mando xbox One",
+      "category": "Consolas",
+      "price": "350",
+      "url": "./img/alurageek/prod-consolas1.png",
+      "description": "Mando inalámbrico para Xbox one"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac2",
+      "name": "Playstation 5",
+      "category": "Consolas",
+      "price": "8000",
+      "url": "./img/alurageek/prod-consolas2.png",
+      "description": "Consola de PLay Station 5"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
+      "name": "Nintendo retro",
+      "category": "Consolas",
+      "price": "500",
+      "url": "./img/alurageek/prod-consolas3.png",
+      "description": "Consola clasica de Nintendo adaptada para Televisores de ultima generacion"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
+      "name": "Joycons - Nintendo Switch",
+      "category": "Consolas",
+      "price": "300",
+      "url": "./img/alurageek/prod-consolas4.png",
+      "description": "Mandos originales para Nintendo Switch"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac5",
+      "name": "Xbox series X",
+      "category": "Consolas",
+      "price": "7000",
+      "url": "./img/alurageek/prod-consolas5.png",
+      "description": "Consola de Xbox series X"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac6",
+      "name": "Gameboy retro",
+      "category": "Consolas",
+      "price": "250",
+      "url": "./img/alurageek/prod-consolas6.png",
+      "description": "Game Boy original retro con juegos pre-cargados"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
+      "name": "Edredón Atari",
+      "category": "Diversos",
+      "price": "800",
+      "url": "./img/alurageek/prod-diversos1.png",
+      "description": "Edredón para fanáticos de la emblemática franquicia de Atari"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
+      "name": "Polera de Nintendo",
+      "category": "Diversos",
+      "price": "130",
+      "url": "./img/alurageek/prod-diversos2.png",
+      "description": "Polera gamer de Nintendo"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa3",
+      "name": "Juguete de Sonic",
+      "category": "Diversos",
+      "price": "80",
+      "url": "./img/alurageek/prod-diversos3.png",
+      "description": "Imagen en miniatura de Sonic"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa4",
+      "name": "Radio AM FM rosada",
+      "category": "Diversos",
+      "price": "1000",
+      "url": "./img/alurageek/prod-diversos4.png",
+      "description": "Radio para escuchar frecuencias clasicas"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa5",
+      "name": "Juego realidad virtual",
+      "category": "Diversos",
+      "price": "5000",
+      "url": "./img/alurageek/prod-diversos5.png",
+      "description": "Kit completo de juegos 3D en realidad virtual"
+    },
+    {
+      "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
+      "name": "Disfraz Picachu",
+      "category": "Diversos",
+      "price": "1200",
+      "url": "./img/alurageek/prod-diversos6.png",
+      "description": "Disfraz para cualquier tipo de evento de Picachu"
+    }
+  ]
+}
